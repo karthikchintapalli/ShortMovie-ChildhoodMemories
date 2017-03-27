@@ -1,0 +1,248 @@
+fileFormatVersion: 2
+guid: 56d6e145bb265c34e82b62329c004e98
+timeCreated: 1490446955
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 3D_Object_#32_001
+    100002: 3D_Object_#32_003
+    100004: 3D_Object_#32_005
+    100006: 3D_Object_#32_007
+    100008: 915#1_001
+    100010: 915#1_002
+    100012: //RootNode
+    100014: bonnet_ok_001
+    100016: boot_ok_001
+    100018: D#1_001
+    100020: D#1_002
+    100022: DONT_EDIT_001
+    100024: door_lf_ok_001
+    100026: door_lr_ok_001
+    100028: door_rf_ok_001
+    100030: door_rr_ok_001
+    100032: fara_lf_001
+    100034: fara_lf_003
+    100036: Group_001
+    100038: Group_002
+    100040: Group_004
+    100042: M#3_001
+    100044: M#3_002
+    100046: MTK#1_001
+    100048: MTK#1_002
+    100050: Plate 08_001
+    100052: Plate 08_003
+    100054: steklo_001
+    100056: svetilo_001
+    100058: wheel_001
+    100060: wheel_002
+    100062: wheel_003
+    100064: wheel_004
+    100066: windscre01_001
+    100068: WITHOUT_PE_001
+    400000: 3D_Object_#32_001
+    400002: 3D_Object_#32_003
+    400004: 3D_Object_#32_005
+    400006: 3D_Object_#32_007
+    400008: 915#1_001
+    400010: 915#1_002
+    400012: //RootNode
+    400014: bonnet_ok_001
+    400016: boot_ok_001
+    400018: D#1_001
+    400020: D#1_002
+    400022: DONT_EDIT_001
+    400024: door_lf_ok_001
+    400026: door_lr_ok_001
+    400028: door_rf_ok_001
+    400030: door_rr_ok_001
+    400032: fara_lf_001
+    400034: fara_lf_003
+    400036: Group_001
+    400038: Group_002
+    400040: Group_004
+    400042: M#3_001
+    400044: M#3_002
+    400046: MTK#1_001
+    400048: MTK#1_002
+    400050: Plate 08_001
+    400052: Plate 08_003
+    400054: steklo_001
+    400056: svetilo_001
+    400058: wheel_001
+    400060: wheel_002
+    400062: wheel_003
+    400064: wheel_004
+    400066: windscre01_001
+    400068: WITHOUT_PE_001
+    2300000: 3D_Object_#32_001
+    2300002: 3D_Object_#32_003
+    2300004: 3D_Object_#32_005
+    2300006: 3D_Object_#32_007
+    2300008: 915#1_001
+    2300010: 915#1_002
+    2300012: bonnet_ok_001
+    2300014: boot_ok_001
+    2300016: D#1_001
+    2300018: D#1_002
+    2300020: DONT_EDIT_001
+    2300022: door_lf_ok_001
+    2300024: door_lr_ok_001
+    2300026: door_rf_ok_001
+    2300028: door_rr_ok_001
+    2300030: fara_lf_001
+    2300032: fara_lf_003
+    2300034: Group_001
+    2300036: Group_002
+    2300038: Group_004
+    2300040: M#3_001
+    2300042: M#3_002
+    2300044: MTK#1_001
+    2300046: MTK#1_002
+    2300048: Plate 08_001
+    2300050: Plate 08_003
+    2300052: steklo_001
+    2300054: svetilo_001
+    2300056: wheel_001
+    2300058: wheel_002
+    2300060: wheel_003
+    2300062: wheel_004
+    2300064: windscre01_001
+    2300066: WITHOUT_PE_001
+    3300000: 3D_Object_#32_001
+    3300002: 3D_Object_#32_003
+    3300004: 3D_Object_#32_005
+    3300006: 3D_Object_#32_007
+    3300008: 915#1_001
+    3300010: 915#1_002
+    3300012: bonnet_ok_001
+    3300014: boot_ok_001
+    3300016: D#1_001
+    3300018: D#1_002
+    3300020: DONT_EDIT_001
+    3300022: door_lf_ok_001
+    3300024: door_lr_ok_001
+    3300026: door_rf_ok_001
+    3300028: door_rr_ok_001
+    3300030: fara_lf_001
+    3300032: fara_lf_003
+    3300034: Group_001
+    3300036: Group_002
+    3300038: Group_004
+    3300040: M#3_001
+    3300042: M#3_002
+    3300044: MTK#1_001
+    3300046: MTK#1_002
+    3300048: Plate 08_001
+    3300050: Plate 08_003
+    3300052: steklo_001
+    3300054: svetilo_001
+    3300056: wheel_001
+    3300058: wheel_002
+    3300060: wheel_003
+    3300062: wheel_004
+    3300064: windscre01_001
+    3300066: WITHOUT_PE_001
+    4300000: wheel_004
+    4300002: 3D_Object_#32_007
+    4300004: wheel_003
+    4300006: 3D_Object_#32_005
+    4300008: wheel_002
+    4300010: 3D_Object_#32_003
+    4300012: wheel_001
+    4300014: 3D_Object_#32_001
+    4300016: 915#1_002
+    4300018: M#3_002
+    4300020: MTK#1_002
+    4300022: D#1_002
+    4300024: Plate 08_003
+    4300026: door_lf_ok_001
+    4300028: fara_lf_003
+    4300030: fara_lf_001
+    4300032: steklo_001
+    4300034: 915#1_001
+    4300036: M#3_001
+    4300038: MTK#1_001
+    4300040: D#1_001
+    4300042: Plate 08_001
+    4300044: Group_004
+    4300046: Group_002
+    4300048: Group_001
+    4300050: DONT_EDIT_001
+    4300052: door_rf_ok_001
+    4300054: door_lr_ok_001
+    4300056: windscre01_001
+    4300058: door_rr_ok_001
+    4300060: boot_ok_001
+    4300062: bonnet_ok_001
+    4300064: svetilo_001
+    4300066: WITHOUT_PE_001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

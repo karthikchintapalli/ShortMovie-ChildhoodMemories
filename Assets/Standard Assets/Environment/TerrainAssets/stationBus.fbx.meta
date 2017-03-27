@@ -1,0 +1,172 @@
+fileFormatVersion: 2
+guid: 81dba3faaa33dbc48b66e71538c3351f
+timeCreated: 1490447526
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Cube
+    100002: Cube.001
+    100004: Cube.002
+    100006: Cube.003
+    100008: Cube.004
+    100010: Cube.005
+    100012: Cube.006
+    100014: Cube.007
+    100016: Cylinder
+    100018: Cylinder.003
+    100020: Cylinder.012
+    100022: Cylinder.013
+    100024: leaves
+    100026: leaves.001
+    100028: leaves.002
+    100030: Plane
+    100032: //RootNode
+    100034: tree
+    100036: tree.001
+    100038: tree.002
+    400000: Cube
+    400002: Cube.001
+    400004: Cube.002
+    400006: Cube.003
+    400008: Cube.004
+    400010: Cube.005
+    400012: Cube.006
+    400014: Cube.007
+    400016: Cylinder
+    400018: Cylinder.003
+    400020: Cylinder.012
+    400022: Cylinder.013
+    400024: leaves
+    400026: leaves.001
+    400028: leaves.002
+    400030: Plane
+    400032: //RootNode
+    400034: tree
+    400036: tree.001
+    400038: tree.002
+    2300000: Cube
+    2300002: Cube.001
+    2300004: Cube.002
+    2300006: Cube.003
+    2300008: Cube.004
+    2300010: Cube.005
+    2300012: Cube.006
+    2300014: Cube.007
+    2300016: Cylinder
+    2300018: Cylinder.003
+    2300020: Cylinder.012
+    2300022: Cylinder.013
+    2300024: leaves
+    2300026: leaves.001
+    2300028: leaves.002
+    2300030: Plane
+    2300032: tree
+    2300034: tree.001
+    2300036: tree.002
+    3300000: Cube
+    3300002: Cube.001
+    3300004: Cube.002
+    3300006: Cube.003
+    3300008: Cube.004
+    3300010: Cube.005
+    3300012: Cube.006
+    3300014: Cube.007
+    3300016: Cylinder
+    3300018: Cylinder.003
+    3300020: Cylinder.012
+    3300022: Cylinder.013
+    3300024: leaves
+    3300026: leaves.001
+    3300028: leaves.002
+    3300030: Plane
+    3300032: tree
+    3300034: tree.001
+    3300036: tree.002
+    4300000: Cube.007
+    4300002: tree.002
+    4300004: leaves.002
+    4300006: Cube.006
+    4300008: tree.001
+    4300010: leaves.001
+    4300012: tree
+    4300014: leaves
+    4300016: Cube.005
+    4300018: Plane
+    4300020: Cube
+    4300022: Cylinder
+    4300024: Cylinder.013
+    4300026: Cylinder.012
+    4300028: Cube.004
+    4300030: Cube.003
+    4300032: Cube.002
+    4300034: Cube.001
+    4300036: Cylinder.003
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
